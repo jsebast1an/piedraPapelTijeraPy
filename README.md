@@ -51,7 +51,7 @@ Se creo un diagrama de flujo bastante elaborado que permita seguir el desenlace 
 ## 🔧 Configuración del Repositorio
 
 1. Se creó el repositorio en GitHub:  
-   [`Aprendizaje Autonomo 2`](https://github.com/jsebast1an/piedraPapelTijeraPy)
+   [`Proyecto Final`](https://github.com/jsebast1an/piedraPapelTijeraPy)
 
 2. No se agregó un README inicial desde GitHub.  
    Más tarde se creó este archivo manualmente sin problemas.
